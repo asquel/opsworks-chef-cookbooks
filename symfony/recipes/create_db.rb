@@ -1,15 +1,13 @@
 #
-# Stop and shutdown supervisor followed by a restart
+# Doctrine database creation.
 #
 node[:deploy].each do |application, deploy|
-  script "restart_supervisor" do
+  script "create_db" do
     interpreter "bash"
     user "root"
     cwd "#{deploy[:deploy_to]}/current"
     code <<-EOH
-    supervisorctl stop all
-    supervisorctl shutdown
-    supervisord
+    php app/console doctrine:database:create --if-not-exists
     EOH
   end
 end 
