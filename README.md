@@ -52,7 +52,7 @@ Default will create multiple cronjobs based on the following configuration value
 
 ```
 {
-    "custom_env": {
+        "custom_env": {
         "cron_jobs": [  
             {
                 "name"      : "Send an email every sunday at 8:10",

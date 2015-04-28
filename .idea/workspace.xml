@@ -2,52 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59a4a8ac-0a94-460f-93ed-a1c8374216cb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/opsworks-chef-cookbooks.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/adwords/recipes/auth_config.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/adwords/templates/default/auth.ini.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fuel/metadata.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fuel/recipes/dbconfig.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fuel/recipes/env_vars.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fuel/recipes/migrate.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fuel/recipes/pheanstalkconfig.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fuel/recipes/rdsconfig.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fuel/recipes/ses.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fuel/templates/default/db.php.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fuel/templates/default/htaccess.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fuel/templates/default/pheanstalk.php.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fuel/templates/default/ses.php.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/phpenv/attributes/default.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/phpenv/metadata.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/phpenv/recipes/htaccess_env_vars.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/phpenv/recipes/memoryswap.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/phpenv/recipes/php_env_vars.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/phpenv/recipes/php_mcrypt_enable.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/phpenv/recipes/php_mongodb.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/phpenv/recipes/php_redis.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/phpenv/templates/default/db-connect.php.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/phpenv/templates/default/environment_variables.php.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/phpenv/templates/default/htaccess.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/phpenv/templates/default/mongo.ini.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/phpenv/templates/default/php_module.ini.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/phpenv/templates/default/redis.ini.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/symfony/recipes/mongodb_update.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/symfony/recipes/paramconfig.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/symfony/templates/default/mongo.ini.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/symfony/templates/default/parameters.yml.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/workers/attributes/default.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/workers/metadata.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/workers/recipes/beanstalkd.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/workers/recipes/supervisor.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/workers/recipes/supervisor_restart.rb" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/symfony/recipes/configure.rb" afterPath="$PROJECT_DIR$/symfony/recipes/update_acl.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/templates/default/htaccess.erb" afterPath="$PROJECT_DIR$/symfony/templates/default/htaccess.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer/recipes/install.rb" afterPath="$PROJECT_DIR$/composer/recipes/install.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="opsworks-chef-cookbooks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,104 +30,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="install.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="install.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/composer/recipes/install.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30495554" vertical-offset="0" max-vertical-offset="1574">
-              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+            <state vertical-scroll-proportion="-9.68" vertical-offset="0" max-vertical-offset="506">
+              <caret line="11" column="87" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitmodules" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitmodules">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="315">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="120">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="update.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer/recipes/update.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.0" vertical-offset="0" max-vertical-offset="550">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="metadata.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer/metadata.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="364">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="metadata.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symfony/metadata.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="493">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="acl_setup.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symfony/recipes/acl_setup.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="375">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="create_db.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symfony/recipes/create_db.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.0" vertical-offset="0" max-vertical-offset="475">
-              <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="migrate.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symfony/recipes/migrate.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="285">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="update_acl.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symfony/recipes/update_acl.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.2" vertical-offset="0" max-vertical-offset="390">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.009791123" vertical-offset="0" max-vertical-offset="1532">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -185,9 +60,10 @@
       <list>
         <option value="$PROJECT_DIR$/symfony/recipes/configure.rb" />
         <option value="$PROJECT_DIR$/symfony/templates/default/htaccess.erb" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/symfony/recipes/create_db.rb" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/composer/recipes/install.rb" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -197,9 +73,9 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="122" />
-    <option name="y" value="-6" />
-    <option name="width" value="3078" />
-    <option name="height" value="1806" />
+    <option name="y" value="36" />
+    <option name="width" value="2345" />
+    <option name="height" value="1764" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -338,6 +214,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="cronjobs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="recipes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opsworks-chef-cookbooks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opsworks-chef-cookbooks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="composer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -387,11 +281,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="122" y="-6" width="3078" height="1806" extended-state="6" />
+    <frame x="122" y="36" width="2345" height="1764" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18121693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23919685" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -451,14 +345,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-30.6" vertical-offset="3231" max-vertical-offset="12987">
-          <caret line="148" column="47" selection-start-line="148" selection-start-column="47" selection-end-line="148" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/composer/metadata.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1599">
@@ -478,33 +364,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1599">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/metadata.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1599">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/recipes/migrate.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1599">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/symfony/recipes/update_acl.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.2" vertical-offset="0" max-vertical-offset="390">
+        <state vertical-scroll-proportion="0.16644908" vertical-offset="0" max-vertical-offset="1532">
           <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding />
         </state>
@@ -528,16 +390,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/symfony/recipes/create_db.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.0" vertical-offset="0" max-vertical-offset="475">
+        <state vertical-scroll-proportion="0.14812377" vertical-offset="0" max-vertical-offset="1519">
           <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/recipes/migrate.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1599">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cronjobs/metadata.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1599">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0605662" vertical-offset="2907" max-vertical-offset="11544">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cronjobs/recipes/default.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1305483" vertical-offset="0" max-vertical-offset="1532">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/metadata.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19091508" vertical-offset="0" max-vertical-offset="1519">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer/recipes/install.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30495554" vertical-offset="0" max-vertical-offset="1574">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        <state vertical-scroll-proportion="-9.68" vertical-offset="0" max-vertical-offset="506">
+          <caret line="11" column="87" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.009791123" vertical-offset="0" max-vertical-offset="1532">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
           <folding />
         </state>
       </provider>
