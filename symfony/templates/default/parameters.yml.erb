@@ -2,6 +2,6 @@ imports:
     - { resource: parameters.yml }
 
 parameters:
-<% @parameters.each do |param_value| %>
-    <%= param_value %>
+<% @parameters.each do |param_name, param_value| %>
+    <%= param_name %>:<%= param_value %>
 <% end %>

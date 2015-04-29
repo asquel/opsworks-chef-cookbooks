@@ -7,7 +7,6 @@ node[:deploy].each do |application, deploy|
     user "root"
     cwd "#{deploy[:deploy_to]}/current"
     code <<-EOH
-    
     php app/console doctrine:database:create --if-not-exists --env="#{node[:symfony][:environment]}"
     EOH
   end
