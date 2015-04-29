@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59a4a8ac-0a94-460f-93ed-a1c8374216cb" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/recipes/create_db.rb" afterPath="$PROJECT_DIR$/symfony/recipes/create_db.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/recipes/migrate.rb" afterPath="$PROJECT_DIR$/symfony/recipes/migrate.rb" />
     </list>
     <ignored path="opsworks-chef-cookbooks.iws" />
@@ -27,21 +28,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="create_db.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/symfony/recipes/create_db.rb">
+      <file leaf-file-name="acl_setup.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony/recipes/acl_setup.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19516972" vertical-offset="0" max-vertical-offset="1532">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="225">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="migrate.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="update_acl.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony/recipes/update_acl.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.72" vertical-offset="0" max-vertical-offset="572">
+              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create_db.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony/recipes/create_db.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.04" vertical-offset="0" max-vertical-offset="529">
+              <caret line="12" column="38" selection-start-line="9" selection-start-column="4" selection-end-line="12" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="migrate.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/symfony/recipes/migrate.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.64" vertical-offset="0" max-vertical-offset="456">
-              <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.18798956" vertical-offset="0" max-vertical-offset="1532">
+              <caret line="12" column="11" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -478,22 +499,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/recipes/acl_setup.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1599">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/recipes/update_acl.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="390">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/symfony/metadata.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.099866845" vertical-offset="0" max-vertical-offset="1502">
@@ -544,18 +549,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/recipes/migrate.rb">
+    <entry file="file://$PROJECT_DIR$/symfony/recipes/acl_setup.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.64" vertical-offset="0" max-vertical-offset="456">
-          <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1599">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/recipes/update_acl.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.72" vertical-offset="0" max-vertical-offset="572">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/symfony/recipes/create_db.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19516972" vertical-offset="0" max-vertical-offset="1532">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state vertical-scroll-proportion="-11.04" vertical-offset="0" max-vertical-offset="529">
+          <caret line="12" column="38" selection-start-line="9" selection-start-column="4" selection-end-line="12" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony/recipes/migrate.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18798956" vertical-offset="0" max-vertical-offset="1532">
+          <caret line="12" column="11" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="11" />
           <folding />
         </state>
       </provider>
