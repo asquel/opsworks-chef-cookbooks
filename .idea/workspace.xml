@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59a4a8ac-0a94-460f-93ed-a1c8374216cb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/templates/default/parameters.yml.erb" afterPath="$PROJECT_DIR$/symfony/templates/default/parameters.yml.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/recipes/migrate.rb" afterPath="$PROJECT_DIR$/symfony/recipes/migrate.rb" />
     </list>
     <ignored path="opsworks-chef-cookbooks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,10 +47,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="create_db.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="create_db.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/symfony/recipes/create_db.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.96" vertical-offset="0" max-vertical-offset="532">
+            <state vertical-scroll-proportion="0.14746544" vertical-offset="0" max-vertical-offset="1519">
               <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
               <folding />
             </state>
@@ -60,18 +60,18 @@
       <file leaf-file-name="migrate.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/symfony/recipes/migrate.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.36" vertical-offset="0" max-vertical-offset="437">
-              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            <state vertical-scroll-proportion="-9.72" vertical-offset="0" max-vertical-offset="513">
+              <caret line="9" column="104" selection-start-line="9" selection-start-column="104" selection-end-line="9" selection-end-column="104" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="parameters.yml.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="parameters.yml.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/symfony/templates/default/parameters.yml.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10918433" vertical-offset="0" max-vertical-offset="1557">
-              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -110,8 +110,8 @@
         <option value="$PROJECT_DIR$/phpmyadmin/recipes/apache2.rb" />
         <option value="$PROJECT_DIR$/symfony/recipes/paramconfig.rb" />
         <option value="$PROJECT_DIR$/symfony/recipes/create_db.rb" />
-        <option value="$PROJECT_DIR$/symfony/recipes/migrate.rb" />
         <option value="$PROJECT_DIR$/symfony/templates/default/parameters.yml.erb" />
+        <option value="$PROJECT_DIR$/symfony/recipes/migrate.rb" />
       </list>
     </option>
   </component>
@@ -716,26 +716,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/recipes/create_db.rb">
+    <entry file="file://$PROJECT_DIR$/symfony/templates/default/parameters.yml.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.96" vertical-offset="0" max-vertical-offset="532">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/symfony/recipes/migrate.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.36" vertical-offset="0" max-vertical-offset="437">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        <state vertical-scroll-proportion="-9.72" vertical-offset="0" max-vertical-offset="513">
+          <caret line="9" column="104" selection-start-line="9" selection-start-column="104" selection-end-line="9" selection-end-column="104" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/symfony/templates/default/parameters.yml.erb">
+    <entry file="file://$PROJECT_DIR$/symfony/recipes/create_db.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10918433" vertical-offset="0" max-vertical-offset="1557">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.14746544" vertical-offset="0" max-vertical-offset="1519">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
           <folding />
         </state>
       </provider>
